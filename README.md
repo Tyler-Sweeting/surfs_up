@@ -13,10 +13,14 @@ There are three major points I can take away from the analysis.
 
 * The maximum temperature in June was 85, the maximum in December was 83. This tells me there is really hot days all year round which can lead to busier days any month of the year. 
 
-This is the temperature summary for June.
+This is the temperature summary for June:
+
+<img width="136" alt="June_Temperatures" src="https://user-images.githubusercontent.com/118485409/216375822-b9f0ea76-ac9b-4ded-b23e-acd416008650.png">
 
 
-This is the temperature sumamry for December.
+This is the temperature sumamry for December:
+
+<img width="120" alt="December_temperatures" src="https://user-images.githubusercontent.com/118485409/216375852-08549c2f-d82e-4b0c-a84d-d378fcf230c7.png">
 
 ### Summary:
 After completing the analysis, I feel confident making my pitch to W.Avy. I see no signs that a surf and ice cream shop would not be successful year round in Oahu. The temperature is nice year round, with a mix of hot days and some less hot to create a nice balance. If I were to make two more querries to back up my summary, I would look into the amount of precipitation for the months of June and December. Also, since it is a surf shop I would be interested in finding out the wind levels for the months of June and December. 
